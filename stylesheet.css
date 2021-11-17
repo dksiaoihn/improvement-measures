@@ -1,6 +1,9 @@
-body {
+.body {
   font-family: "Avenir Next";
+  padding: 0px;
+  margin: 0px;
 }
+
 
 li {
   list-style: none;
@@ -177,13 +180,8 @@ input:checked ~ #h-menu_black {
   padding: 15px 20px;
 }
 
-.body {
-  background-color:#f0fff0;
-  padding: 0px;
-  margin: 0px;
-}
-
 .main{
+  background-color:#f0fff0;
   padding: 100px 80px;
 }
 
