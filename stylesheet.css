@@ -9,6 +9,8 @@ li {
 .header-0 {
   background-color: #32cd32;
   height: 80px;
+  padding: 0px;
+  margin: 0px;
 }
 
 .logo-2{
@@ -268,3 +270,4 @@ input:checked ~ #h-menu_black {
 
 .footer-list li {
  padding-bottom: 20px;
+}
