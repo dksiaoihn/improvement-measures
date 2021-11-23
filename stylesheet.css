@@ -1,5 +1,5 @@
 .body {
-  font-family: "Avenir Next";
+  font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   padding: 0px;
   margin: 0px;
 }
@@ -136,6 +136,9 @@ input:checked ~ #h-menu_black {
     background: #455b6d;
 }
 
+
+
+
 .header-1 {
   background-color: #9acd32;
   color: #006400;
@@ -148,8 +151,8 @@ input:checked ~ #h-menu_black {
   background-color: #e0ffff;
   color: #000000;
   height: 41px;
-  padding: 0px;
-  margin: 0px;
+  padding: 0px 0px;
+  margin: 0px 0px 0px 0px;
 }
 
 
@@ -177,7 +180,7 @@ input:checked ~ #h-menu_black {
   color:#696969;
   float: left;
   font-size: 16px;
-  padding: 15px 20px;
+  padding: 15px 20px 100px 20px;
 }
 
 .main{
