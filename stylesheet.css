@@ -260,8 +260,8 @@ input:checked ~ #h-menu_black {
 .footer {
   background-color: #eee8aa;
   color: #000000;
-  height: 100px;
- 
+  height: 200px;
+  padding: 0px 0px;
 }
 
 .footer-logo {
