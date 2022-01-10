@@ -36,7 +36,7 @@ li {
 
 .logo-4-contents{
   font-size: 9px;
-  padding: 5px 0px 0px 130px;
+  padding: 0px 0px 0px 130px;
 }
 
 .logo-5{
@@ -314,4 +314,3 @@ input:checked ~ #h-menu_black {
 .footer-list li {
  padding-bottom: 20px;
 }
-
