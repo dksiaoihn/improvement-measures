@@ -21,7 +21,12 @@ li {
 }
 
 .logo-3{
-  padding: 20px 0px 40px 60px;
+  padding: 20px 0px 0px 60px;
+}
+
+.logo-3-contents{
+  font-size: 9px;
+  padding: 5px 0px 40px 60px;
 }
 
 .logo-4 ul{
@@ -35,21 +40,21 @@ li {
 }
 
 .logo-5{
-  padding: 20px 0px 40px 200px;
+  padding: 20px 0px 0px 200px;
 }
 
 .logo-5-contents{
   font-size: 9px;
-  padding: 5px 0px 0px 130px;
+  padding: 0px 0px 50px 200px;
 }
 
 .logo-6{
   padding: 20px 0px 0px 200px;
 }
 
-.logo-6-contents{
-  font-size: 1px;
-  padding: 5px 0px 0px 130px;
+.logo-6-contents {
+  font-size: 9px;
+  padding: 0px 0px 0px 200px;
 }
 
 header {
@@ -223,12 +228,12 @@ input:checked ~ #h-menu_black {
 
 .copy-container h1 {
   font-size: 50px;
-  
+  padding-bottom: 20px;
 }
 
 .copy-container li {
   font-size: 20px;
-  padding: 25px 50px;
+  padding: 15px 50px;
 }
 
 .copy-container-2 h1 {
@@ -238,32 +243,32 @@ input:checked ~ #h-menu_black {
 
 .copy-container-2 h2 {
   font-size: 30px;
-  padding: 25px 0px 0px 40px;
+  padding: 25px 0px 20px 40px;
 }
 
 .copy-container-2 li{
   font-size: 20px;
-  padding: 25px 50px;
+  padding: 15px 50px;
 }
 
 .copy-container-2 h3 {
   font-size: 30px;
-  padding: 25px 0px 0px 40px;
+  padding: 25px 0px 20px 40px;
 }
 
 .copy-container-3 h1 {
   font-size: 35px;
-  padding: 25px 0px 0px 25px;
+  padding: 50px 0px 20px 25px;
 }
 
 .copy-container-3 h2 {
   font-size: 30px;
-  padding: 25px 0px 0px 40px;
+  padding: 25px 0px 20px 40px;
 }
 
 .copy-container-3 h3 {
   font-size: 30px;
-  padding: 25px 0px 0px 40px;
+  padding: 25px 0px 20px 40px;
 }
 
 .copy-container-3 h4 {
@@ -273,18 +278,17 @@ input:checked ~ #h-menu_black {
 
 .copy-container-3 li {
   font-size: 20px;
-  padding: 25px 50px;
+  padding: 15px 50px;
 }
 
 .copy-container-4 h1 {
   font-size: 35px;
-  padding: 25px 0px 10px 25px;
+  padding: 50px 0px 20px 25px;
 }
-
 
 .copy-container-4 li {
   font-size: 20px;
-  padding: 25px 50px;
+  padding: 15px 50px;
 }
 
 
@@ -310,3 +314,4 @@ input:checked ~ #h-menu_black {
 .footer-list li {
  padding-bottom: 20px;
 }
+
